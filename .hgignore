@@ -1,0 +1,8 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^mbed-os$
+^C12832$
+^ESP-call$
